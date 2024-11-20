@@ -21,7 +21,7 @@ This repository contains several programs and documents related to compiler desi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/liyatony/Compiler.git
+   git clone https://AbinVarghese1/Compiler-Programs.git
 2. Navigate to the project directory:
    ```bash
    cd Compiler
